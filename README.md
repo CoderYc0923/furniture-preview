@@ -1,2 +1,1 @@
-# furniture-preview
-ar家具预览
+# vite + js + vue3项目模板
